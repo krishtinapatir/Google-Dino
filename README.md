@@ -1,1 +1,2 @@
 # Google-Dino
+Discover the process of developing a game using HTML canvas through this tutorial. You'll gain insights into constructing a game loop, integrating images onto the canvas, implementing click handlers for the dinosaur's jumping action, dynamically generating and moving cacti across the screen, detecting collisions between the dinosaur and cacti, and incorporating a live score for the running game.
